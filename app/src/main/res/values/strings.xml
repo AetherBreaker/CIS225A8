@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CIS225A8</string>
+    <string name="labelInstructions">Tap the screen to roll the dice!</string>
+</resources>
